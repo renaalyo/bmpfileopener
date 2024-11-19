@@ -35,10 +35,10 @@ Example Use Case
 
   Compile the program:
 
-  g++ -o bmp_viewer bmp_viewer.cpp
+	g++ -o bmp_viewer bmp_viewer.cpp
 		
 Run the program with a sample BMP file:
 
-  ./bmp_viewer sample.bmp
+	  ./bmp_viewer sample.bmp
 		
 This will display the image using ASCII characters.
